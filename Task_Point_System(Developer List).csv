@@ -1,8 +1,8 @@
 Developer,Tasks,Task IDs,Milestones,Total Weight,Contribution %,Score,Primary Role
-Mert Koçyiğit,3,"1, 7, 10","M1, M4, M5",160,28.57%,100,"Core cell model, interfaces, enums; CLI runner; task spreadsheet"
-Elif Eren Çarıkcı,3,"2, 8, 11","M2, M4, M5",160,28.57%,100,Map loading & cell creation (City); project report; developer list
-Deren Kocabaş,1,"3, 6","M2, M3",80,14.29%,57,Zone hierarchy & production logic; city simulation loop
-Arda Abacı,3,"4, 5, 9","M3, M4",160,28.57%,100,Utility providers; service providers; build scripts & runnable JAR
+Mert Koçyiğit,3,"1, 6, 9","M1, M3, M4",160,28.57%,100,"Core cell model, interfaces, enums; city simulation loop; build scripts & runnable JAR"
+Elif Eren Çarıkcı,3,"2, 7, 10","M2, M4, M5",160,28.57%,100,Map loading & cell creation (City); project report; developer list
+Deren Kocabaş,1,3,M2,80,14.29%,57,Zone hierarchy & production logic
+Arda Abacı,3,"4, 5, 8","M3, M4",160,28.57%,100,Utility providers; service providers; CLI runner
 ,,,,,,,
 TEAM TOTAL,10,,,560,,89.25,Average score across all developers
 TEAM AVERAGE,,,,140,,,Expected points per developer
