@@ -1,0 +1,8 @@
+Developer;Tasks;Task IDs;Milestones;Total Weight;Contribution %;Score;Primary Role
+Mert Koçyi?it;3;1, 7, 10;M1, M4, M5;160;29%;100;"Core cell model, interfaces, enums; CLI runner; task spreadsheet"
+Elif Eren Çar?kc?;3;2, 8, 11;M2, M4, M5;160;29%;100;"Map loading & cell creation (City); project report; developer list"
+Deren Kocaba?;1;3, 6;M2, M3;80;14%;57;"Zone hierarchy & production logic; city simulation loop"
+Arda Abac?;3;4, 5, 9;M3, M4;160;29%;100;"Utility providers; service providers; build scripts & runnable JAR"
+;;;;;;;
+TEAM TOTAL;10;;;560;;89;Average score across all developers
+TEAM AVERAGE;;;;140;;;Expected points per developer
